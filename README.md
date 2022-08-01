@@ -33,3 +33,7 @@ I'm looking for help with the best resources to improve on the tools I currently
 ### How to reach me:
 
 [My linkedIn Profile](https://www.linkedin.com/in/oluwadamilare-abiola-a31163245/)
+
+
+### Trophys
+[![trophy](https://github-profile-trophy.vercel.app/?username=LDrex1)](https://github.com/LDrex1/github-profile-trophy)
