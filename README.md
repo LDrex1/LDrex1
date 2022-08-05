@@ -32,7 +32,7 @@ I'm looking for help with the best resources to improve on the tools I currently
 
 ### How to reach me:
 
-[My linkedIn Profile](https://www.linkedin.com/in/oluwadamilare-abiola-a31163245/)             [Portfolio](https://ldrex1.github.io/my_portfolio/)
+-[My linkedIn Profile](https://www.linkedin.com/in/oluwadamilare-abiola-a31163245/)             -[Portfolio](https://ldrex1.github.io/my_portfolio/)
 
 
 ### Trophys
