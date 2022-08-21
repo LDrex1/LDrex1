@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I love teaching JavaScript and always want to improve my skills. I have about a year of experience in front-end development working with resources like HTML, CSS, Bootstrap, SaSS, JavaScript and React. Currently, I work at Coder's Den 94.
 
 ### Future Plans
-I'm looking to collaborate on interesting real-life projects that will challenge me and imporve my existing skills
+I'm looking to collaborate on interesting real-life projects that will challenge me and improve my existing skills
 It is also in my plans to become a fullstack web developper however, i'm still taking baby steps.
 
 ### Call For Help
