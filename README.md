@@ -27,7 +27,9 @@ I'm looking for help with the best resources to improve on the tools I currently
 
 ### What do I do for fun
 - I love playing sports (Football and Table-Tennis)
+- Codding :)
 - Playing Musical Instruments
+- Reading articles
 - Watching Anime
 
 ### How to reach me:
