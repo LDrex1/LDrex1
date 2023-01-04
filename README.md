@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-I love teaching JavaScript and always want to improve my skills. I have about a year of experience in front-end development working with resources like HTML, CSS, Bootstrap, SaSS, JavaScript and React and firebase. Currently, I work at Coder's Den 94.
+I love teaching JavaScript and always want to improve my skills. I have about 3 years of experience in front-end development working with resources like HTML, CSS, Bootstrap, SaSS, JavaScript and React and firebase. Currently, I work as a freelancer, and as aJavaScript tutor at Coder's Den 94.
 
 ### Future Plans
 I'm looking to collaborate on interesting real-life projects that will challenge me and improve my existing skills
