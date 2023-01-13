@@ -1,4 +1,4 @@
-### Hi there 👋 I am LDrex1! #Blank Canvas
+### Hi there 👋 I am LDrex1, a frontend web developer! #Blank Canvas
 
 <!--
 **LDrex1/LDrex1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-I love teaching JavaScript and always want to improve my skills. I have about 3 years of experience in front-end development working with resources like HTML, CSS, Bootstrap, SaSS, JavaScript and React and firebase. Currently, I work as a freelancer, and as aJavaScript tutor at Coder's Den 94.
+I am a fun person, and I like building userfriendly, and effective UIs because it's my passion and give me a sense of purpose. Also, I love teaching JavaScript and always want to improve my skills. I have about 3 years of experience in front-end development working with resources like HTML, CSS, Bootstrap, SaSS, JavaScript and React and firebase. Currently, I work as a freelancer, and as a frontend developer and tutor at Coder's Den 94.
 
 ### Future Plans
 I'm looking to collaborate on interesting real-life projects that will challenge me and improve my existing skills
