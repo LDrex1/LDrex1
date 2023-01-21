@@ -1,4 +1,4 @@
-### Hi there 👋 I am LDrex1, a frontend web developer! #Blank Canvas
+### Hi there 👋 I am LDrex1, a frontend web developer! (2 years exp) #Blank Canvas
 
 <!--
 **LDrex1/LDrex1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
