@@ -1,4 +1,4 @@
-### Hi there 👋 I am LDrex1, a frontend web developer! (2 years exp) #Blank Canvas
+### Hi there 👋 I am LDrex1, a frontend web developer! (3 years exp) #Blank Canvas
 
 <!--
 **LDrex1/LDrex1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-I am a fun person, and I like building userfriendly, and effective UIs because it's my passion and give me a sense of purpose. Also, I love teaching JavaScript and always want to improve my skills. I have about 3 years of experience in front-end development working with resources like HTML, CSS, Bootstrap, SaSS, JavaScript and React( & a handfull of libraries) and firebase. Currently, I work as a freelancer, and as a frontend developer and tutor at Coder's Den 94.
+I am a fun person, and I like building userfriendly, and effective UIs because it's my passion and give me a sense of purpose. Also, I love teaching JavaScript and always want to improve my skills. I have about 3 years of experience in front-end development working with resources like HTML, CSS, Bootstrap, SaSS, JavaScript and React( & a handfull of libraries) and firebase. Currently, I work as a frontend webdeveloper at areaboi, and as a frontend developer and tutor at Coder's Den 94.
 
 ### Future Plans
 I'm looking to collaborate on interesting real-life projects that will challenge me and improve my existing skills
-It is also in my plans to become a fullstack web developper however, i'm still taking baby steps.
+It is also in my plans to become a fullstack web developper and build some open source projects.
 
 ### Call For Help
-I'm looking for help with the best resources to improve on the tools I currently work with, and also PHP and node.js 
+I'm looking for help with the best resources to improve on the tools I currently work with, and also solidity and java. 
 
 ### What do I do for fun
 - I love playing sports (Football and Table-Tennis)
