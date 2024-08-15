@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-I like building user-friendly, effective UIs because it's my passion and gives me a sense of purpose. I also love teaching JavaScript and have always wanted to improve my skills, with about 3 years of experience in front-end development working with resources like NextJs, SaSS, Tailwind, firebase and a handful of libraries and firebase. Currently, I am delving into cloud technologies to advance my technological career.
+Frontend Web Developer and Cloud Engineer. With about 3 years of experience in front-end development working with resources like NextJs, SaSS, Tailwind, firebase and a handful of libraries and firebase. Currently, I am delving into cloud technologies to advance my technological career.
 
 ### Future Plans
 I'm looking to collaborate on interesting real-life projects that will challenge me and improve my existing skills
