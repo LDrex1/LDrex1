@@ -1,4 +1,4 @@
-### Hi there 👋 I am LDrex1, a frontend web developer! (3 years exp) #Blank Canvas
+### Hi there 👋 I am LDrex1, Cloud Engineer/DevOps! (3 years exp in frontEnd dev) 
 
 <!--
 **LDrex1/LDrex1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-Cloud Engineer/DevOps. 
 I am driven by the desire to create scalable, secure, and efficient cloud solutions that power innovative businesses. My journey began with a strong foundation in web development, where I had 3 years of experience working with resources like NextJs, SaSS, Tailwind, firebase and a handful of libraries and firebase. Currently, I am delving into cloud technologies to advance my technological career.
 
 ### Future Plans
@@ -24,7 +23,7 @@ I'm looking to collaborate on interesting real-life projects that will challenge
 
 
 ### Call For Help
-I'm looking for help with the best resources to improve on the tools I work with but I'm not also open to working with new technologies. 
+I'm looking for help with the best resources to improve on the tools I work with but I'm also open to working with new technologies. 
 
 ### What do I do for fun
 - I love playing sports (Football and Table-Tennis)
