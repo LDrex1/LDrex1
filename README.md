@@ -1,3 +1,7 @@
+<div border-radius='50%' align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JzNWZ5NGljNWozb3F1cjZjMzIwdzgyY2JibDI0aDQxOGU0d2p6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO7A7bt1wsEP4cw/giphy.gif" width="480" height="360" class="giphy-embed"/>
+</div>
+
 ### Hi there 👋 I am LDrex1, Cloud Engineer/DevOps! (3 years exp in frontEnd dev) 
 
 <!--
@@ -16,24 +20,22 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-I am driven by the desire to create scalable, secure, and efficient cloud solutions that power innovative businesses. My journey began with a strong foundation in web development, where I had 3 years of experience working with resources like NextJs, SaSS, Tailwind, firebase and a handful of libraries and firebase. Currently, I am delving into cloud technologies to advance my technological career.
+I am driven by the desire to create scalable, secure, and efficient cloud solutions that power innovative businesses. My journey began with a strong foundation in web development, where I had 3 years of experience working with resources like NextJs, SaSS, Tailwind, a handful of libraries and firebase. Currently, I am a DevOps/Cloud Engineer building cloud solutions and facilitating seamless integration and deployments.
 
 ### Future Plans
-I'm looking to collaborate on interesting real-life projects that will challenge me and improve my existing skills
+Always looking to collaborate on interesting and challenging projects.
 
-
-### Call For Help
-I'm looking for help with the best resources to improve on the tools I work with but I'm also open to working with new technologies. 
-
-### What do I do for fun
-- I love playing sports (Football and Table-Tennis)
-- Codding :)
-- Playing Musical Instruments
-- Reading articles
-- Watching Anime
 
 ### How to reach me:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/dami-abiola-a31163245">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ 
+  <a href="mailto:damzealwini7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
-[LinkedIn Profile](https://www.linkedin.com/in/oluwadamilare-abiola-a31163245/) &nbsp; &nbsp; 
 
 
